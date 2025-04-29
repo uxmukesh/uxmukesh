@@ -35,7 +35,7 @@ This website was built to provide a seamless experience for students, faculty, a
 - ⚡ Fast load speeds (Vercel deployed)
 - 📈 SEO-optimized pages
 - 📬 Integrated contact form and structured content
-- 📂 Multi-page academic structure (Courses, Faculty, Admissions, etc.)
+- 📂 Multi-page academic structure (Faculty, Disclosures, Contact Us, etc.)
 
 ---
 
@@ -51,10 +51,8 @@ This website was built to provide a seamless experience for students, faculty, a
 
 ## 🖼️ Screenshots
 
-> _(Add your screenshots in a `/images` folder and embed like below)_
-
 ![Homepage](./images/oxford-college-of-pharmacy.vercel.app_.png)  
-_Modern, responsive homepage layout_
+_Responsive homepage layout_
 
 ---
 
