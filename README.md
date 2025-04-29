@@ -37,7 +37,7 @@
 > Full college website with CMS backend (Strapi), SEO-optimized and deployed via Vercel  
 > 🛠 Tech: Next.js, Strapi, PostgreSQL  
 > 🔗 [Live Website](https://oxford-college-of-pharmacy.vercel.app/)  
-> 📄 [Case Study Repo](https://github.com/uxmukesh/oxford-college-of-pharmacy-case-study)
+> 📄 [Case Study](https://github.com/uxmukesh/oxford-college-of-pharmacy-case-study)
 
 ---
 
