@@ -56,12 +56,6 @@ This website was built to provide a seamless experience for students, faculty, a
 ![Homepage](./images/oxford-college-of-pharmacy.vercel.app_.png)  
 _Modern, responsive homepage layout_
 
-<!-- ![Courses Page](./images/courses.jpg)
-*Dynamic Courses list, powered by Strapi*
-
-![Contact Page](./images/contact.jpg)
-*User-friendly contact form with clean UI* -->
-
 ---
 
 ## 📬 Contact
