@@ -1,15 +1,13 @@
 # 🎓 Oxford College of Pharmacy Website
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 > A dynamic and fully responsive website built for a professional pharmacy college — integrated with a headless CMS for real-time content management.
 
 ---
 
 ## 🌐 Live Preview
+
 🔗 [View Website](https://oxford-college-of-pharmacy.vercel.app/)
 
 ---
@@ -53,16 +51,16 @@ This website was built to provide a seamless experience for students, faculty, a
 
 ## 🖼️ Screenshots
 
-> *(Add your screenshots in a `/images` folder and embed like below)*
+> _(Add your screenshots in a `/images` folder and embed like below)_
 
-![Homepage](./images/homepage.jpg)  
-*Modern, responsive homepage layout*
+![Homepage](./images/oxford-college-of-pharmacy.vercel.app_.png)  
+_Modern, responsive homepage layout_
 
-![Courses Page](./images/courses.jpg)  
+<!-- ![Courses Page](./images/courses.jpg)
 *Dynamic Courses list, powered by Strapi*
 
-![Contact Page](./images/contact.jpg)  
-*User-friendly contact form with clean UI*
+![Contact Page](./images/contact.jpg)
+*User-friendly contact form with clean UI* -->
 
 ---
 
@@ -76,5 +74,5 @@ If you like what you see and need a similar solution for your business or instit
 ---
 
 ### ⭐ Want to work together?
-Feel free to reach out — I'm available for freelance projects and collaborations.
 
+Feel free to reach out — I'm available for freelance projects and collaborations.
