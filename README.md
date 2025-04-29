@@ -13,29 +13,45 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on freelance web development projects.
-- 🌱 Constantly learning and exploring new frontend technologies.
-- 🤝 I’m open to **freelance work** and **collaboration opportunities**.
-- 📫 Reach me at **uxmukesh@gmail.com**.
+
+- 💻 Frontend Developer with a strong eye for design and detail.
+- 🌱 Exploring modern frameworks like Next.js and Strapi.
+- 📦 Working on scalable and dynamic client websites.
+- 🤝 Available for **freelance work** and **long-term collaborations**.
+- 📫 Reach me at **uxmukesh@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap CSS
-- **Backend:** Node.js, PHP
-- **Others:** REST APIs, Responsive Design, Web Performance Optimization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,php,postgresql" />
+</p>
+
+---
+
+### ⭐ Featured Projects
+
+#### 🎓 Oxford College of Pharmacy
+
+> Full college website with CMS backend (Strapi), SEO-optimized and deployed via Vercel  
+> 🛠 Tech: Next.js, Strapi, PostgreSQL  
+> 🔗 [Live Website](https://oxford-college-of-pharmacy.vercel.app/)  
+> 📄 [Case Study Repo](https://github.com/uxmukesh/oxford-college-of-pharmacy) _(you’ll need to create this)_
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uxmukesh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
-- 🌎 [Visit my agency website](https://www.ravenpixels.com) (Launching Soon 🚀)
-- 📬 [Email me](mailto:uxmukesh@gmail.com)
+### 🌐 Let’s Connect
+
+- 🌍 [RavenPixels.com](https://www.ravenpixels.com) (Agency site launching soon 🚀)
+- 📬 [uxmukesh@gmail.com](mailto:uxmukesh@gmail.com)
 
 ---
