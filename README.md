@@ -41,6 +41,13 @@
 > 🔗 [Live Website](https://oxford-college-of-pharmacy.vercel.app/)  
 > 📄 [Case Study](https://github.com/uxmukesh/oxford-college-of-pharmacy-case-study)
 
+#### 🎓 Karn Thumbnail Designs
+
+> Full portfolio website with CMS backend (Sanity), SEO-optimized and deployed via Vercel  
+> 🛠 Tech: Next.js, Typescript, Framer Motion, Sanity  
+> 🔗 [Live Website](https://karn-thumbnail-designs.vercel.app/)  
+> 📄 [Case Study](https://github.com/uxmukesh/karn-thumbnail-designs-case-study)
+
 ---
 
 ### 📈 GitHub Stats
